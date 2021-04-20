@@ -1,0 +1,34 @@
+<html>
+<!-- The head that contains the page title that goes into the tab text -->
+<head>
+<title>Cybersecurity</title>
+</head>
+<body>
+<h1><center>Welcome to my Cybersecurity Website</center></h1>
+<hr>
+<p>Online networks are vital to many business operations, but they are liable to attacks targeted 
+to access confidential data, such as customers’ details or technical information about products etc. 
+This level of data is <b>very expensive</b> to gather and its loss could result in loss of reputation and even business failure.
+</p>
+<h2>Quote</h2>
+<blockquote>Passwords are like underwear: don't let people see it and change it very often.
+</blockquote>
+<center><img src="cyberimage.jpg" alt="Cyberimage"></img></center>
+<p>Here are <i>some</i> threats:</p>
+<ul>
+<li>Viruses</li>
+<li>Worms</li>
+<li>Trojans</li>
+<li>Hacking</li>
+<li>Social 	Engineering</li>
+</ul>
+<p>Here are <i>some</i> ways to protect yourself</p>
+<ol>
+<li>Footprinting</li>
+<li>Firewalls</li>
+<li>Antivirus</li>
+<li>Penetration Testing</li>
+</ol>
+<p>More information can be found at <a href="https://www.itgovernance.co.uk">www.itgovernance.co.uk</a><p>
+</body>
+</html>
